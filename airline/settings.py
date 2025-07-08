@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kdy3-$e&09d@76u%t9uy7!6j7bvz+u)r7uqz$y&d&*nnf6_4vh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['airline-py.onrender.com/']
 
 
 # Application definition
